@@ -1,7 +1,7 @@
 # SUSH
 Alternative shell environment that streamlines resource usage management
 
-## Example resource usage 
+## Example resource usage output
 ```
 CPU time: 0.015625 sec user, 0.031250 sec system
 Max resident set size: 2340
